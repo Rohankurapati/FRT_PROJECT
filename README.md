@@ -45,14 +45,14 @@ The project's purpose is intricately mapped to the problem statement. It directl
 
 ## Screenshots 📸
 
-### Home page -   ![Screenshot (64)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/b9abc804-1520-47ed-8036-c313d1b58c2a)
+### Home page -   ![Screenshot (75)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/a3832503-e1b8-41cc-beba-8b3bc7374f30)
 
-### Team page -    ![Screenshot (69)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/065bce20-6830-4639-81d2-8ace52b943f6)
+### About Us Page -  ![Screenshot (76)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/66aaed57-ae23-4b2a-9aaa-84b4e51dbcff)
 
-### Contact page -  ![Screenshot (67)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/74d4f6e4-c819-49a9-971c-134deb6b61d7)
+### Services page -  ![Screenshot (77)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/e94efab6-6690-4830-b03e-a1a019c940d9)
 
-### Services page -  ![Screenshot (66)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/5520f816-b4f5-4647-9f61-5235a3521822)
+### Contact page -  ![Screenshot (78)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/a5f29305-76d0-43de-81b8-938da023f9c0)
 
-### Chat Bot page -  ![Screenshot (72)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/c7dc90a9-9bd3-4cab-a096-2ae588e85f8b)
+### Chat Bot page -  ![Screenshot (79)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/e0c12e42-b2cc-48de-a598-384246bb9984)
 
-### About Us Page -  ![Screenshot (68)](https://github.com/Rohankurapati/FRT_PROJECT/assets/141521480/7ac0c25a-1a3b-4718-90df-40175c40030e)
+
